@@ -1,13 +1,4 @@
-# A main dashboard that includes at least 3 visualizations.
 
-# A secondary dashboard with at least 1 visualization.
+<img width="1562" alt="Screenshot 2023-10-12 at 8 11 20 PM" src="https://github.com/kassiedancer92/Dashboard/assets/133593433/11063af4-981b-40bf-b42a-f0de7d80970f">
 
-# Navigation buttons on both dashboards so that the viewer can jump between them.
-
-# A coordinated visual style & color palette (that is not the default style).
-
-# At least 1 Action filter.
-
-# You must exclude at least 1 visualization from the action filter.
-
-# Your full name and link to the project’s GitHub repository on the main dashboard.
+https://public.tableau.com/app/profile/kassandra.doran/viz/ProjectDashboard_16971384567340/Dashboard2?publish=yes
